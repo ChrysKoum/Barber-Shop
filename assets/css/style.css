@@ -8,4 +8,7 @@
     .slider-area .stock-text {
     bottom: 294px;
 }
+.slider-area{
+    height: 100vh;
+}
 }
